@@ -1,6 +1,6 @@
 <?php
 
-namespace bb\Sha3;
+namespace BssdLtd\Sha3;
 
 final class Sha3
 {

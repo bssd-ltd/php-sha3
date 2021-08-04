@@ -1,5 +1,5 @@
 {
-    "name": "bb/php-sha3",
+    "name": "bssd-ltd/php-sha3",
     "description": "Pure PHP implementation of SHA-3",
     "keywords": ["sha3", "sha-3", "shake"],
     "require-dev": {
@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "bb\\Sha3\\": "src"
+            "BssdLtd\\Sha3\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "bb\\Sha3\\Test\\": "test"
+            "BssdLtd\\Sha3\\Test\\": "test"
         }
     }
 }

@@ -1,9 +1,9 @@
 <?php
 
-namespace bb\Sha3\Test;
+namespace BssdLtd\Sha3\Test;
 
 use PHPUnit_Framework_TestCase;
-use bb\Sha3\Sha3;
+use BssdLtd\Sha3\Sha3;
 use Symfony\Component\Config\Definition\Exception\Exception;
 
 
